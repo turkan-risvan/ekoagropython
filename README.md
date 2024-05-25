@@ -13,6 +13,7 @@ Tables
 ![image](https://github.com/turkan-risvan/ekoagropython/assets/78659151/deede749-82e9-48d7-a7aa-3cc5f1584e12)
 ![image](https://github.com/turkan-risvan/ekoagropython/assets/78659151/dca55fc0-1dbf-4959-bd16-7c7c5c759281)
 ![image](https://github.com/turkan-risvan/ekoagropython/assets/78659151/55b1f240-b9cb-42ef-9391-a384ecfa615c)
+![image](https://github.com/turkan-risvan/ekoagropython/assets/78659151/574783e1-8f3a-49ce-b461-8441da39ba76)
 
 
 
